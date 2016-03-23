@@ -3,7 +3,7 @@ import request from 'request';
 
 const postForm = {
   '_xsrf': null,
-  'password': 'xym19931025',
+  'password': '',
   'remember_me': true,
   'email': 'myxvisual@sina.com',
 };
